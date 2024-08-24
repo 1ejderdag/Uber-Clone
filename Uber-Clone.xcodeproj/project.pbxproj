@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3A1BF46E2C78F20B00997977 /* LocationSearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1BF46D2C78F20B00997977 /* LocationSearchViewModel.swift */; };
 		3A3B9D592C76D81400C9966E /* MapViewActionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A3B9D582C76D81400C9966E /* MapViewActionButton.swift */; };
 		3A4F98832C782FEB00CCAAAF /* LocationSearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A4F98822C782FEB00CCAAAF /* LocationSearchView.swift */; };
 		3A4F98852C7836FF00CCAAAF /* LocationSearchResultCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A4F98842C7836FF00CCAAAF /* LocationSearchResultCell.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3A1BF46D2C78F20B00997977 /* LocationSearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSearchViewModel.swift; sourceTree = "<group>"; };
 		3A3B9D582C76D81400C9966E /* MapViewActionButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewActionButton.swift; sourceTree = "<group>"; };
 		3A4F98822C782FEB00CCAAAF /* LocationSearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSearchView.swift; sourceTree = "<group>"; };
 		3A4F98842C7836FF00CCAAAF /* LocationSearchResultCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationSearchResultCell.swift; sourceTree = "<group>"; };
@@ -169,6 +171,7 @@
 		3AA0957F2C76CE3400001D8F /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				3A1BF46D2C78F20B00997977 /* LocationSearchViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -243,6 +246,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3A1BF46E2C78F20B00997977 /* LocationSearchViewModel.swift in Sources */,
 				3A4F98832C782FEB00CCAAAF /* LocationSearchView.swift in Sources */,
 				3A8E7CFF2C5D2E2800B2FFDA /* LocationManager.swift in Sources */,
 				3A3B9D592C76D81400C9966E /* MapViewActionButton.swift in Sources */,
