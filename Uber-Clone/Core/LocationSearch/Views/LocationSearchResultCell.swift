@@ -38,5 +38,5 @@ struct LocationSearchResultCell: View {
 }
 
 #Preview {
-    LocationSearchResultCell(title: "", subtitle: "")
+    LocationSearchResultCell(title: "Starbucks Coffee", subtitle: "123 Main St, Cupertino CA")
 }
